@@ -1,0 +1,16 @@
+https://docs.microsoft.com/ja-jp/visualstudio/releases/2019/redistribution#VisualStudio
+[VisualStudioFolder]\VC\Redist\MSVC\[version]\debug_nonredist[arch]\
+concrt140d.dll
+mfc140ud.dll
+mfcm140ud.dll
+msvcp140d.dll
+msvcp140_1d.dll
+msvcp140_2d.dll
+vcamp140d.dll
+vccorlib140d.dll
+vcomp140d.dll
+vcruntime140d.dll
+vcruntime140_1d.dll
+
+
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Redist\MSVC\14.22.27821\debug_nonredist\x64\Microsoft.VC142.DebugCRT
